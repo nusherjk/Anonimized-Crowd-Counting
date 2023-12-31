@@ -1,4 +1,4 @@
-# P2PNet (ICCV2021 Oral Presentation)
+# Anonimized Crowd Counting
 
 This repository contains codes for the  **P2PNet** and **Deep Privacy**
  
@@ -6,7 +6,7 @@ A brief introduction of P2PNet can be found at [机器之心 (almosthuman)](http
 
 The codes is tested with PyTorch 1.5.0. It may not run with other versions.
 
-## Visualized demos for P2PNet
+## Visualized demos for Anonimized Crowd Counting
 <img src="output/IMG_1-pred1639.jpg" width="1000"/>   
 <img src="output/IMG_12-pred282.jpg" width="1000"/> 
 <img src="output/IMG_13-pred358.jpg" width="1000"/> 
@@ -130,6 +130,9 @@ this will take images from  `./input` folder and save the output in `./output` f
 you change up the configs from there.
 
 
+### Refs
 
+1. https://github.com/hukkelas/DeepPrivacy
+2. https://github.com/TencentYoutuResearch/CrowdCounting-P2PNet
 
 
